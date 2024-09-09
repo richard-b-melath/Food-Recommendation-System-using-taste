@@ -1,0 +1,201 @@
+Food,Taste,Combination
+Masala Dosa,"Savory, Crispy, Warm",enjoyed with Sambar (Savory) and Coconut Chutney (Savory)
+Butter Chicken,"Savory, Creamy, Hot",enjoyed with Naan (Neutral) or Rice (Neutral)
+Rogan Josh,"Spicy, Tender, Hot",enjoyed with Naan (Neutral) or Rice (Neutral).
+Pani Puri,"Tangy, Crispy, Cold",enjoyed with Spicy Mint Water (Spicy) and Tamarind Chutney (Sour)
+Biryani,"Spicy, Fragrant, Hot", enjoyed with Raita (Cooling) or Mirchi Ka Salan (Spicy)
+Chole Bhature,"Spicy, Fluffy, Hot",enjoyed with Pickled Onions (Sour) and Mint Chutney (Spicy)
+Pav Bhaji,"Spicy, Creamy, Hot",enjoyed with Buttered Pav (Neutral) and Lemon Wedges (Sour)
+Vada Pav,"Spicy, Crispy, Warm",enjoyed with Green Chutney (Spicy) and Garlic Chutney (Spicy)
+Chicken Tikka,"Spicy, Juicy, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral)
+Tandoori Chicken,"Spicy, Smoky, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral)
+Aloo Paratha,"Spicy, Soft, Warm",enjoyed with Yogurt (Sour) and Pickle (Sour)
+Samosa,"Spicy, Crispy, Warm",enjoyed with Tamarind Chutney (Sour) and Mint Chutney (Spicy)
+Rajma Chawal,"Savory, Creamy, Hot",enjoyed with Pickled Onions (Sour) or Salad (Neutral)
+Dhokla,"Tangy, Spongy, Warm",enjoyed with Green Chutney (Spicy) and Tamarind Chutney (Sour)
+Poha,"Savory, Fluffy, Warm",enjoyed with Sev (Crunchy) and Lemon Wedges (Sour).
+Gulab Jamun,"Sweet, Soft, Warm",enjoyed with Vanilla Ice Cream (Cold) or Rabri (Creamy)
+Jalebi,"Sweet, Crispy, Warm",enjoyed with Rabri (Creamy) or Fafda (Savory)
+Rasgulla,"Sweet, Spongy, Cold",enjoyed with Rose Syrup (Sweet) or Saffron Milk (Creamy).
+Lassi,"Sweet, Creamy, Cold",enjoyed with Mango Pulp (Sweet) or Rose Water (Sweet)
+Idli,"Savory, Soft, Warm",enjoyed with Sambar (Savory) and Coconut Chutney (Savory)
+Upma,"Savory, Gritty, Warm",enjoyed with Coconut Chutney (Savory) and Lemon Wedges (Sour)
+Mysore Pak,"Sweet, Fudge-like, Warm",enjoyed with Ghee (Rich) and Cardamom Powder (Aromatic)
+Payasam,"Sweet, Creamy, Warm",enjoyed with Cashews (Crunchy) and Raisins (Chewy)
+Chicken Curry,"Spicy, Tender, Hot",enjoyed with Rice (Neutral) or Roti (Neutral)
+Fish Curry,"Spicy, Tangy, Hot",enjoyed with Rice (Neutral) or Appam (Spongy).
+Palak Paneer,"Savory, Creamy, Hot",enjoyed with Naan (Neutral) or Rice (Neutral).
+Tandoori Roti,"Neutral, Soft, Warm",enjoyed with Dal Makhani (Creamy) or Paneer Tikka (Spicy)
+Chicken Biryani,"Spicy, Fragrant, Hot",enjoyed with Raita (Cooling) or Mirchi Ka Salan (Spicy)
+Papdi Chaat,"Tangy, Crunchy, Cold",enjoyed with Tamarind Chutney (Sour) and Mint Chutney (Spicy)
+Chicken 65,"Spicy, Crispy, Hot",enjoyed with Onion Slices (Neutral) and Lemon Wedges (Sour).
+Bhindi Masala,"Savory, Tender, Hot",enjoyed with Roti (Neutral) or Rice (Neutral)
+Aloo Gobi,"Spicy, Soft, Warm",enjoyed with Roti (Neutral) or Rice (Neutral)
+Paneer Tikka Masala,"Spicy, Creamy, Hot",enjoyed with Naan (Neutral) or Rice (Neutral).
+Chana Masala,"Spicy, Creamy, Hot",enjoyed with Bhature (Fluffy) or Poori (Fluffy).
+Kofta Curry,"Savory, Soft, Hot",enjoyed with Naan (Neutral) or Rice (Neutral).
+Malai Kofta,"Creamy, Soft, Hot",enjoyed with Naan (Neutral) or Rice (Neutral).
+Aloo Tikki,"Spicy, Crispy, Warm",enjoyed with Mint Chutney (Spicy) and Tamarind Chutney (Sour).
+Chicken Korma,"Spicy, Creamy, Hot",enjoyed with Naan (Neutral) or Rice (Neutral).
+Dahi Vada,"angy, Soft, Cold",enjoyed with Tamarind Chutney (Sour) and Green Chutney (Spicy).
+Chicken Pakora,"Spicy, Crispy, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Malai Kulfi,"Sweet, Creamy, Cold",enjoyed with Falooda (Chewy) or Rabri (Creamy).
+Chole Kulche,"Spicy, Soft, Hot",enjoyed with Pickled Onions (Sour) and Green Chilies (Spicy)
+Mutton Curry,"Spicy, Tender, Hot",enjoyed with Rice (Neutral) or Paratha (Spicy).
+Tandoori Fish:,"Spicy, Smoky, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Bhel Puri,"Tangy, Crunchy, Cold",enjoyed with Tamarind Chutney (Sour) and Sev (Crunchy).
+Kathi Roll:,"Spicy, Flaky, Warm",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Aloo Samosa,"Spicy, Crispy, Warm",enjoyed with Tamarind Chutney (Sour) and Mint Chutney (Spicy).
+Palak Pakora,"Spicy, Crispy, Hot",enjoyed with Mint Chutney (Spicy) and Tamarind Chutney (Sour).
+Chicken Biryani,"Spicy, Fragrant, Hot",enjoyed with Raita (Cooling) or Mirchi Ka Salan (Spicy).
+Ras Malai,"Sweet, Creamy, Cold",enjoyed with Saffron (Aromatic) or Cardamom (Aromatic).
+Vindaloo,"spicy, tangy, hot ",enjoyed with Steamed Rice (Neutral) or Puri (Fluffy).
+Mutton Biryani,"spicy, fragrant, hot",enjoyed with Raita (Cooling) or Mirchi Ka Salan (Spicy).
+Papadum,"crunchy, savory, warm",enjoyed with Mint Chutney (Spicy) and Mango Chutney (Sweet).
+Rava Dosa,"crispy, savory, warm ",enjoyed with Coconut Chutney (Savory) and Tomato Chutney (Tangy)
+Chicken Chettinad,"spicy, aromatic, hot ",enjoyed with Appam (Spongy) or Parotta (Flaky).
+Masoor Dal," savory, creamy, hot",enjoyed with Rice (Neutral) or Roti (Neutral).
+Chole Kulcha,"spicy, soft, hot",enjoyed with Pickled Onions (Sour) and Green Chilies (Spicy).
+Paniyaram,"soft, savory, warm",enjoyed with Coconut Chutney (Savory) and Tomato Chutney (Tangy)
+ Aloo Methi,"spicy, tender, warm",enjoyed with Roti (Neutral) or Rice (Neutral).
+Hyderabadi Biryani,"spicy, fragrant, hot ",enjoyed with Mirchi Ka Salan (Spicy) or Raita (Cooling)
+Dhansak,"Spicy, Tangy, Hot ",enjoyed with Brown Rice (Neutral) or Kachumber Salad (Fresh)
+Misal Pav,"Spicy, Tangy, Warm",enjoyed with Farsan (Crunchy) and Lemon Wedges (Sour).
+Paneer Butter Masala,"Creamy, Rich, Hot",enjoyed with Naan (Neutral) or Jeera Rice (Fragrant).
+ Gajar Ka Halwa,"Sweet, Creamy, Warm",enjoyed with Vanilla Ice Cream (Cold) or Rabri (Creamy)
+Medu Vada,"Crispy, Savory, Warm ",enjoyed with Coconut Chutney (Savory) and Sambar (Savory).
+Chicken Kebab," Spicy, Juicy, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Mysore Masala Dosa,"Spicy, Crispy, Warm", enjoyed with Sambar (Savory) and Coconut Chutney (Savory).
+Bombay Sandwich,"Tangy, Crunchy, Cold",enjoyed with Mint Chutney (Spicy) and Tamarind Chutney (Sour)
+Sabudana Khichdi,"Spicy, Chewy, Warm",enjoyed with Peanut Powder (Savory) and Yogurt (Sour)
+Kheer,"Sweet, Creamy, Cold", enjoyed with Cardamom (Aromatic) or Saffron (Aromatic).
+Chicken Korma,"Creamy, Spicy, Hot",enjoyed with Naan (Neutral) or Pulao (Fragrant).
+Mysore Bonda,"Crispy, Spicy, Warm",enjoyed with Coconut Chutney (Savory) and Sambar (Savory).
+Gobi Manchurian,"Spicy, Crispy, Hot",enjoyed with Fried Rice (Neutral) or Hakka Noodles (Soft).
+Malabar Paratha,"Flaky, Soft, Warm ",enjoyed with Kerala Beef Fry (Spicy) or Chicken Curry (Spicy).
+ Egg Bhurji,"Spicy, Fluffy, Warm",enjoyed with Pav (Neutral) or Roti (Neutral).
+Rogan Josh,"Spicy, Tender, Hot",enjoyed with Naan (Neutral) or Steamed Rice (Neutral)
+ Aloo Tikki Chaat,"Tangy, Spicy, Warm",enjoyed with Tamarind Chutney (Sour) and Yogurt (Sour).
+Chicken 555,"Spicy, Crispy, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Chicken Sukka,"Spicy, Dry, Hot",enjoyed with Neer Dosa (Soft) or Rice (Neutral)
+Kadhi Pakora,"Tangy, Creamy, Warm", enjoyed with Rice (Neutral) or Roti (Neutral).
+ Malpua,"Sweet, Soft, Warm",enjoyed with Rabri (Creamy) or Sweetened Condensed Milk (Sweet).
+Aloo Matar,"Spicy, Tender, Warm",enjoyed with Roti (Neutral) or Rice (Neutral).
+Chicken Tandoori,"Spicy, Smoky, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Amritsari Kulcha,"Fluffy, Spicy, Warm",enjoyed with Chole (Spicy) or Pickled Onions (Sour).
+Chicken Do Pyaza,"Spicy, Tender, Hot", enjoyed with Naan (Neutral) or Pulao (Fragrant).
+Fish Fry,"Spicy, Crispy, Hot ",enjoyed with Lemon Wedges (Sour) and Onion Rings (Neutral).
+Chicken Chilli,"Spicy, Tangy, Hot ",enjoyed with Fried Rice (Neutral) or Hakka Noodles (Soft).
+Methi Thepla,"Spicy, Soft, Warm ", enjoyed with Pickle (Sour) or Curd (Sour).
+Sheer Khurma,"Sweet, Creamy, Warm",enjoyed with Dry Fruits (Crunchy) and Cardamom (Aromatic)
+Egg Curry,"Spicy, Tender, Hot",enjoyed with Rice (Neutral) or Roti (Neutral).
+Rajasthani Laal Maas,"Spicy, Tender, Hot",enjoyed with Bajra Roti (Neutral) or Rice (Neutral).
+Chicken Reshmi Kebab,"Creamy, Tender, Hot ",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+Aloo Parwal,"Spicy, Tender, Warm",enjoyed with Roti (Neutral) or Rice (Neutral).
+Dahi Puri,"Tangy, Crunchy, Cold",enjoyed with Sweet Tamarind Chutney (Sweet) and Mint Water (Spicy).
+Chana Dal,"Savory, Creamy, Hot", enjoyed with Rice (Neutral) or Roti (Neutral).
+Kathiawadi Thali,"Spicy, Varied, Hot",enjoyed with Roti (Neutral) or Rice (Neutral)
+Malai Ladoo," Sweet, Creamy, Cold ",enjoyed with Pistachios (Crunchy) and Almonds (Crunchy)
+ Patra,"Tangy, Savory, Warm",enjoyed with Tamarind Chutney (Sour) and Green Chutney (Spicy).
+Chicken Haryali,"Spicy, Tender, Hot",enjoyed with Mint Chutney (Spicy) and Onion Rings (Neutral).
+ Bhindi Fry,"Spicy, Crispy, Hot ","enjoyed with Roti (Neutral) or Rice (Neutral)."
+Croissant,"Buttery, Flaky, Warm",enjoyed with Jam (Sweet) or Chocolate Spread (Sweet)
+Baguette,"Crusty, Chewy, Warm",enjoyed with Butter (Creamy) or Cheese (Savory)
+Cinnamon Roll,"Sweet, Gooey, Warm",enjoyed with Cream Cheese Frosting (Sweet) or Icing Sugar (Sweet)
+Sourdough Bread,"Tangy, Chewy, Warm",enjoyed with Olive Oil (Rich) or Balsamic Vinegar (Tangy)
+Danish Pastry,"Flaky, Sweet, Warm","enjoyed with Almond Paste (Sweet) or Fruit Preserves (Sweet)
+"
+Chocolate Chip Cookie,"Sweet, Chewy, Warm",enjoyed with Milk (Cold) or Coffee (Hot)
+Apple Pie,"Sweet, Crispy, Warm",enjoyed with Vanilla Ice Cream (Cold) or Whipped Cream (Creamy).
+Muffin,"Sweet, Soft, Warm",enjoyed with Butter (Creamy) or Fruit Compote (Sweet)
+Eclair,"Creamy, Chocolaty, Cold",enjoyed with Chocolate Ganache (Sweet) or Custard (Creamy)
+Brioche,"Rich, Soft, Warm",enjoyed with Honey (Sweet) or Nutella (Sweet)
+Pain au Chocolat,"Buttery, Chocolatey, Warm",enjoyed with Espresso (Strong) or Hot Chocolate (Sweet).
+Focaccia Bread,"Savory, Herb-infused, Warm",enjoyed with Olive Tapenade (Savory) or Pesto (Herby)
+Pita Bread,"Soft, Chewy, Warm",enjoyed with Hummus (Creamy) or Tzatziki (Refreshing)
+Palmier,"Crispy, Sweet, Warm",enjoyed with Caramel (Sweet) or Chocolate Drizzle (Sweet)
+Challah Bread,"Rich, Soft, Warm",enjoyed with Honey (Sweet) or Mustard (Savory)
+Pretzel,"Chewy, Salty, Warm",enjoyed with Mustard (Savory) or Cheese Sauce (Creamy)
+Bagel,"Chewy, Dense, Warm",enjoyed with Cream Cheese (Creamy) or Lox (Savory)
+Gingerbread Cookie,"Spicy, Crispy, Warm",enjoyed with Royal Icing (Sweet) or Lemon Glaze (Sweet)
+Scone,"Buttery, Crumbly, Warm",enjoyed with Clotted Cream (Creamy) or Jam (Sweet)
+Black Forest Cake,"Rich, Chocolatey, Cold",enjoyed with Cherries (Sweet) or Whipped Cream (Creamy)
+Coffee Cake,"Sweet, Crumbly, Warm",enjoyed with Streusel Topping (Sweet) or Cinnamon Swirl (Sweet).
+Shortbread,"Buttery, Crumbly, Sweet",enjoyed with Tea (Warm) or Lemon Curd (Tangy)
+Madeleine,"Buttery, Sponge-like, Warm ",enjoyed with Powdered Sugar (Sweet) or Lemon Glaze (Sweet)
+Red Velvet Cake,"Sweet, Moist, Cold ",enjoyed with Cream Cheese Frosting (Sweet) or Whipped Cream (Creamy)
+Baklava,"Sweet, Crunchy, Cold",enjoyed with Honey (Sweet) or Pistachios (Crunchy)
+Brownie,"Rich, Fudgy, Warm",enjoyed with Vanilla Ice Cream (Cold) or Caramel Sauce (Sweet)
+Kaiser Roll,"Chewy, Crusty, Warm",enjoyed with Deli Meat (Savory) or Cheese (Savory)
+Lemon Tart,"Tangy, Buttery, Cold",enjoyed with Whipped Cream (Creamy) or Meringue (Fluffy)
+Pumpernickel Bread,"Dense, Nutty, Warm",enjoyed with Cream Cheese (Creamy) or Smoked Salmon (Savory)
+Macaron,"Sweet, Chewy, Cold",enjoyed with Coffee (Hot) or Tea (Warm)
+English Muffin,"Soft, Chewy, Warm",enjoyed with Butter (Creamy) or Jam (Sweet)
+Angel Food Cake,"Light, Fluffy, Cold",enjoyed with Berries (Sweet) or Whipped Cream (Creamy)
+Cornbread,"Savory, Crumbly, Warm",enjoyed with Honey Butter (Sweet) or Chili (Spicy)
+Éclair,"Creamy, Chocolaty, Cold",enjoyed with Chocolate Ganache (Sweet) or Custard (Creamy)
+Cinnamon Twist,"Sweet, Flaky, Warm",enjoyed with Icing Sugar (Sweet) or Cinnamon Glaze (Sweet)
+Swiss Roll,"Light, Spongey, Cold",enjoyed with Whipped Cream (Creamy) or Chocolate Ganache (Sweet)
+Irish Soda Bread,"Dense, Crusty, Warm",enjoyed with Butter (Creamy) or Jam (Sweet).
+Rye Bread,"Earthy, Dense, Warm",enjoyed with Mustard (Savory) or Corned Beef (Savory)
+Marble Cake,"Swirled, Moist, Cold",enjoyed with Chocolate Frosting (Sweet) or Vanilla Glaze (Sweet)
+Cheese Danish,"Flaky, Creamy, Warm",enjoyed with Fruit Preserves (Sweet) or Icing (Sweet)
+Rugelach,"Flaky, Nutty, Warm",enjoyed with Apricot Jam (Sweet) or Chocolate (Sweet)
+Kaiser Roll,"Chewy, Crusty, Warm",enjoyed with Deli Meat (Savory) or Cheese (Savory)
+Fougasse,"Crispy, Herby, Warm",enjoyed with Olive Oil (Rich) or Cheese (Savory)
+Corn Muffin,"Sweet, Crumbly, Warm",enjoyed with Honey Butter (Sweet) or Jam (Sweet)
+Ciabatta,"Chewy, Rustic, Warm",enjoyed with Olive Oil (Rich) or Balsamic Vinegar (Tangy)
+Canele,"Crispy, Caramelized, Warm",enjoyed with Coffee (Hot) or Tea (Warm)
+Irish Soda Bread,"Dense, Crusty, Warm",enjoyed with Butter (Creamy) or Jam (Sweet)
+Pandesal,"Soft, Sweet, Warm",enjoyed with Butter (Creamy) or Jam (Sweet)
+Fougasse,"Crispy, Herby, Warm",enjoyed with Olive Oil (Rich) or Cheese (Savory)
+Panettone,"Sweet, Fluffy, Warm",enjoyed with Butter (Creamy) or Jam (Sweet)
+Sushi,"Umami, Cold, Chewy",enjoyed with Soy Sauce (Salty) and Wasabi (Spicy).
+ Pizza Margherita,"Savory, Hot, Chewy ",enjoyed with Chili Flakes (Spicy) and Olive Oil (Rich)
+Pho,"Umami, Hot, Brothy",enjoyed with Bean Sprouts (Crunchy) and Hoisin Sauce (Sweet).
+Tacos,"Savory, Warm, Crunchy",enjoyed with Salsa (Spicy) and Guacamole (Creamy).
+Pad Thai," Umami, Warm, Chewy",enjoyed with Lime Wedges (Sour) and Crushed Peanuts (Crunchy)
+Croissant," Buttery, Warm, Flaky ",enjoyed with Jam (Sweet) and Butter (Rich).
+Paella,"Savory, Hot, Tender ",enjoyed with Lemon Wedges (Sour) and Aioli (Creamy)
+Ramen," Umami, Hot, Chewy",enjoyed with Soft-boiled Egg (Creamy) and Nori (Salty)
+Hamburger,"Savory, Warm, Juicy",enjoyed with Ketchup (Sweet) and Mustard (Spicy)
+Moussaka,"Savory, Warm, Creamy",enjoyed with Greek Salad (Fresh) and Tzatziki (Cooling)
+Peking Duck,"Savory, Warm, Crispy",enjoyed with Hoisin Sauce (Sweet) and Pancakes (Soft).
+Tiramisu,"Sweet, Cold, Creamy",enjoyed with Coffee (Bitter) and Cocoa Powder (Bitter).
+Goulash,"Savory, Hot, Hearty ",enjoyed with Bread Dumplings (Soft) and Sour Cream (Creamy)
+Sashimi,"Umami, Cold, Tender",enjoyed with Wasabi (Spicy) and Soy Sauce (Salty)
+Risotto,"Savory, Warm, Creamy ",enjoyed with Parmesan Cheese (Salty) and White Wine (Acidic)
+Chicken Tikka Masala,"Spicy, Warm, Tender",enjoyed with Naan (Chewy) and Rice (Neutral)
+Borscht," Savory, Warm, Chunky",enjoyed with Sour Cream (Creamy) and Dill (Fresh)
+Falafel,"Savory, Warm, Crispy",enjoyed with Hummus (Creamy) and Tahini (Nutty)
+Lasagna,"Savory, Hot, Cheesy",enjoyed with Garlic Bread (Crunchy) and Salad (Fresh)
+Poutine,"Savory, Warm, Gooey",enjoyed with Gravy (Savory) and Cheese Curds (Chewy)
+Tempura,"Savory, Warm, Crispy",enjoyed with Dipping Sauce (Salty) and Daikon (Crunchy)
+Chicken Satay,"Savory, Warm, Tender",enjoyed with Peanut Sauce (Creamy) and Cucumber (Crunchy)
+Fish and Chips,"Savory, Hot, Crispy",enjoyed with Malt Vinegar (Sour) and Tartar Sauce (Creamy)
+Ravioli,"Savory, Warm, Tender",enjoyed with Marinara Sauce (Savory) and Parmesan (Salty)
+Coq au Vin," Savory, Warm, Tender ",enjoyed with Baguette (Crunchy) and Red Wine (Acidic)
+Empanadas,"Savory, Warm, Flaky ",enjoyed with Chimichurri (Herbaceous) and Salsa (Spicy)
+Pad See Ew," Savory, Warm, Chewy  ",enjoyed with Lime Wedges (Sour) and Chili Flakes (Spicy)
+Kimchi ,"Spicy, Cold, Crunchy ",enjoyed with Rice (Neutral) and Bulgogi (Savory)
+Dim Sum ,"Savory, Warm, Steamed  ",enjoyed with Soy Sauce (Salty) and Chili Oil (Spicy)
+Baklava," Sweet, Flaky, Nutty  ",enjoyed with Honey (Sweet) and Pistachios (Crunchy)
+Beef Wellington ,"Savory, Warm, Tender ", enjoyed with Red Wine Reduction (Rich) and Mushrooms (Umami)
+Gyoza ,"Savory, Warm, Crispy  ",enjoyed with Soy Sauce (Salty) and Vinegar (Sour)
+Pupusa ,"Savory, Warm, Chewy  ",enjoyed with Curtido (Tangy) and Salsa Roja (Spicy)
+Bruschetta ,"Savory, Warm, Crispy  ",enjoyed with Olive Oil (Rich) and Balsamic Vinegar (Sour)
+Tom Yum Soup ,"Spicy, Hot, Tangy  ",enjoyed with Lemongrass (Aromatic) and Lime Leaves (Citrusy)
+Moules Frites ,"Savory, Warm, Briny  ",enjoyed with Garlic Bread (Crunchy) and Aioli (Creamy).
+Cannoli ,"Sweet, Crispy, Creamy  ",enjoyed with Chocolate Chips (Crunchy) and Ricotta (Creamy)
+Bagel and Lox ,"Savory, Cold, Chewy  ",enjoyed with Cream Cheese (Creamy) and Capers (Tangy)
+Jambalaya ,"Spicy, Hot, Hearty  ",enjoyed with Cornbread (Crumbly) and Hot Sauce (Spicy).
+Chicken Parmesan," Savory, Warm, Crispy ", enjoyed with Marinara Sauce (Savory) and Mozzarella (Stretchy)
+Croque Monsieur ,"Savory, Warm, Cheesy  ",enjoyed with Dijon Mustard (Spicy) and Cornichons (Sour)
+Miso Soup," Savory, Warm, Brothy  ",enjoyed with Tofu (Soft) and Green Onions (Fresh)
+Wiener Schnitzel," Savory, Warm, Crispy  ",enjoyed with Lemon Wedges (Sour) and Lingonberry Jam (Sweet).
+Tandoori Chicken ,"Spicy, Hot, Juicy  ",enjoyed with Mint Chutney (Spicy) and Naan (Chewy)
+Ceviche ,"Tangy, Cold, Fresh ",enjoyed with Plantain Chips (Crunchy) and Avocado (Creamy
+Bahn Mi ,"Savory, Warm, Crusty  ",enjoyed with Pickled Carrots (Tangy) and Sriracha (Spicy)
+Rendang ,"Spicy, Warm, Tender  ",enjoyed with Jasmine Rice (Neutral) and Keropok (Crunchy)
+Bibimbap ,"Savory, Warm, Textured  ",enjoyed with Gochujang (Spicy) and Kimchi (Spicy)
+Bibimbap ,"Sweet, Crispy, Creamy ",enjoyed with Ganache (Rich) and Fruit Compote (Sweet).
