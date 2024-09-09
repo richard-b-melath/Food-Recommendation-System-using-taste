@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Food Recommendation</title>
+  <style>
+    h1 {
+      color: white;
+      font-size: 45px;
+      margin-left: 30px;
+      font-family: Sans-Serif;
+    }
+
+    .h {
+      color: #A7F432;
+    }
+
+    .contain {
+      background-image: url("/static/RTMS.jpg");
+      background-size: cover;
+      background-position: center;
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+      border-radius: 0px;
+      opacity: 0.9;
+    }
+
+    body,
+    html {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: #171926;
+    }
+
+    .fi {
+      background: blue;
+      padding: ;
+    }
+
+    .g {
+      color: white;
+      max-width: 600px;
+      position: relative;
+      top: 70px;
+      margin-left: 30px;
+      transparent: 1;
+      border: 2px;
+    }
+
+    .g form input {
+      outline: 0;
+      border: 0px;
+      width: 100%;
+      font-size: 16px;
+      padding-left: 5px;
+      background-color: transparent;
+      color: white;
+    }
+
+    .g form {
+      border-radius: 20px;
+      display: flex;
+      background: ;
+      color: white;
+      padding: 10px;
+      margin-top: 30px;
+      border: 2px;
+      border-style: solid;
+      border-color: white;
+    }
+
+    input::placeholder {
+      color: white;
+    }
+
+    .flipping-letters {
+      display: inline-block;
+      perspective: 1000px;
+      color: #D6E96C;
+    }
+
+    .letter {
+      display: inline-block;
+      transform-style: preserve-3d;
+      animation: flipText 4s infinite alternate;
+      color: #D6E96C;
+    }
+
+    @keyframes flipText {
+      0% {
+        transform: rotatex(360deg);
+      }
+
+      100% {
+        transform: rotatex(0deg);
+      }
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    .btn {
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+      outline: 0;
+      border-radius: 20px;
+      background: ;
+      font-weight: 500;
+      cursor: pointer;
+      border-style: solid;
+      border-color: #D6E96C;
+      color: #D6E96C;
+      background-color: transparent;
+    }
+
+    .btn1 {
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+      outline: 0;
+      border-radius: 20px;
+      background: ;
+      font-weight: 500;
+      cursor: pointer;
+      border-style: solid;
+      border-color: #D6E96C;
+      color: #D6E96C;
+      background-color: transparent;
+      margin-left: 20px;
+      text-decoration: none;
+    }
+
+    .btn1:hover {
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+      outline: 0;
+      border-radius: 20px;
+      background: ;
+      font-weight: 500;
+      cursor: pointer
+    /* Language Button Styles */
+    .language-switcher {
+      position: absolute;
+      top: 10px;
+      right: 10px;
+      display: flex;
+      align-items: center;
+      padding: 5px 10px;
+      border-radius: 5px;
+      background-color: #D6E96C;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .language-switcher:hover {
+      background-color: #A7F432;
+    }
+
+    .language-switcher span {
+      margin-right: 5px;
+      color: #fff;
+    }
+
+    /* Language Button Functionality (replace with your logic) */
+    .language-switcher.active span:first-child {
+      color: transparent;
+    }
+
+    .language-switcher.active span:last-child {
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <div class="contain">
+    <h1>Foodie <span class="h">Finder</span></h1>
+
+    <button class="language-switcher active">
+      <span>EN</span>
+      <span>ML</span>
+    </button>
+
+    <div class="g">
+      <form action="#">
+        <input type="text" placeholder="Enter your cuisine preference">
+        <button class="btn" type="submit">Find Food</button>
+        <a href="#" class="btn1">Feeling Adventurous?</a>
+      </form>
+    </div>
+
+    </div>
+</body>
+</html>

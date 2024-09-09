@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Recommendation</title>
+</head>
+<body>
+    <h1>Recommendation</h1>
+    {% if recommendation == "No taste-related words found in the sentence." %}
+        <p>No taste-related words found in the sentence.</p>
+    {% else %}
+        {% for food in recommendation %}
+            <p><b>Food:</b> {{ food.food }}</p>
+            <p>Combination: {{ food.combination }}</p>
+        {% endfor %}
+    {% endif %}
+</body>
+</html>
